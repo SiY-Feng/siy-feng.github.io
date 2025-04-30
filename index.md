@@ -1,36 +1,35 @@
-# 冯思远 FENG SIYUAN
+# 馮 思遠 FENG SIYUAN
 
-**博士前期课程・东京大学 综合文化研究科**
+**修士2年・東京大学 総合文化研究科**
 
-Email: [fengsiyuan50@gmail.com](mailto:fengsiyuan50@gmail.com)
+Email: [9445233883@g.ecc.u-tokyo.ac.jp](mailto:9445233883@g.ecc.u-tokyo.ac.jp)
 
 ---
 
 ## 研究方向
 
-- 图像与语言的交叉理解
-- 漫画自动化理解
+- 画像と言語の相互理解
+- 漫画の自動化理解
 - 漫画生成
 
 ---
 
-## 发表论文
+## 論文·発表
 
 1. **How Panel Layouts Define Manga: Insights from Visual Ablation Experiments**  
    _CogSci 2025 (Full Paper & Poster)_
 
-2. **[请填写第二篇论文标题]**  
-   _[会议或期刊名]_
+2. **[Understanding the Impact of Confidence in Retrieval Augmented Generation: A Case Study in the Medical Domain]**  
+   _BioNLP 2025_
 
 ---
 
-## 简历 / Curriculum Vitae
+## CV
 
-（可上传 PDF 简历到仓库并链接，如 `assets/cv.pdf`）
 
 ---
 
-## 联系方式
+## 連絡先
 
 - GitHub: [SiY-Feng](https://github.com/SiY-Feng)
-- Email: fengsiyuan50@gmail.com
+- Email: 9445233883@g.ecc.u-tokyo.ac.jp
