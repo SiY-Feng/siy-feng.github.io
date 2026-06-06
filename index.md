@@ -1,6 +1,6 @@
 # 馮 思遠 FENG SIYUAN
 
-**修士2年・東京大学 総合文化研究科**
+**博士1年・東京大学 総合文化研究科**
 
 Email: [9445233883@g.ecc.u-tokyo.ac.jp](mailto:9445233883@g.ecc.u-tokyo.ac.jp)
 
@@ -21,6 +21,12 @@ Email: [9445233883@g.ecc.u-tokyo.ac.jp](mailto:9445233883@g.ecc.u-tokyo.ac.jp)
 
 2. **[Understanding the Impact of Confidence in Retrieval Augmented Generation: A Case Study in the Medical Domain]**  
    _BioNLP 2025_
+
+---
+
+## 受賞
+
+1. **東京大学総合文化研究科2025年度言語情報科学専攻優秀修士論文賞**  
 
 ---
 
